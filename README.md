@@ -33,14 +33,13 @@ This project is a Machine Learning-based system that predicts whether a person h
 - Not Diabetic ✅
 
 ## 📊 Model Performance
-- Accuracy: (add your accuracy here)
+- Accuracy: 75%
 
 ## 📂 Project Structure
 - diabetes_prediction.ipynb → Main model
 - requirements.txt → Libraries used
 - Screenshot.png → Output image
 
-## 💡 Future Improvements
-- Deploy using Streamlit
-- Improve model accuracy with advanced algorithms
-- Add user-friendly interface
+## 📸 Output Screenshot
+![Output](Screenshot%20(312).png)
+
